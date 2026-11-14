@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**6** solved · 6 problems · 0 labs · 0 math
+**7** solved · 7 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -13,6 +13,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
 | [Calculate Image Brightness](https://www.deep-ml.com/problems/70) | easy | 2026-11-13 | [solution](problems/0070-calculate-image-brightness) |
+| [Tensor Puzzle: Extract the Diagonal](https://www.deep-ml.com/problems/1271) | easy | 2026-11-14 | [solution](problems/1271-tensor-puzzle-extract-the-diagonal) |
 | [Tensor Puzzle: Ones Vector from First Principles](https://www.deep-ml.com/problems/1268) | easy | 2026-11-14 | [solution](problems/1268-tensor-puzzle-ones-vector-from-first-principles) |
 | [Tensor Puzzle: Outer Product via Broadcasting](https://www.deep-ml.com/problems/1270) | easy | 2026-11-14 | [solution](problems/1270-tensor-puzzle-outer-product-via-broadcasting) |
 | [Tensor Puzzle: Sum a Vector with a Dot Product](https://www.deep-ml.com/problems/1269) | easy | 2026-11-14 | [solution](problems/1269-tensor-puzzle-sum-a-vector-with-a-dot-product) |
